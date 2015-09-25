@@ -7,6 +7,7 @@
 ## and then use b<-makeCacheMatrix(a) to run the function on the matrix.
 
 makeCacheMatrix <- function(x = matrix()) {
+	
 
     m <- NULL
     set <- function(y) {
